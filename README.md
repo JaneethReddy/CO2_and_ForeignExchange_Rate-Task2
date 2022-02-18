@@ -14,3 +14,8 @@ to both job1, and job2 python files so that the print part won't be executed whe
   I have used the while loop to decrease the date by 1 day as long as we didn't get the data for our output. Once 
   the required execution is successful I would simply come out of the loop and print the required output.
  </p>
+ 
+ <h4>Final Output:</h4>
+ 
+ >The cycle CO2 is 418.61, trend CO2 is 416.76 as on date 2022-02-15 and 
+  Foreign Exchange rates for GBP to USD is 1.3616186923 as on date 2022-02-18
